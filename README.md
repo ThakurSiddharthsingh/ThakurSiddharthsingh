@@ -9,18 +9,8 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/siddharth-singh-902b3b283">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ThakurSiddharthsingh">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ThakurSiddharthsingh&style=for-the-badge&color=1F6FEB"/>
-
-</div>
 
 ---
 
@@ -50,17 +40,6 @@ Java • Django • SQL • MySQL • OOP • DSA • DBMS • Operating Systems
 
 ---
 
-# GitHub Overview
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThakurSiddharthsingh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurSiddharthsingh&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 # GitHub Summary
 
@@ -114,9 +93,17 @@ Java • Django • SQL • MySQL • OOP • DSA • DBMS • Operating Systems
 
 # Achievements
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ThakurSiddharthsingh&theme=algolia&no-frame=true&column=7"/>
+🏆 Smart India Hackathon (SIH) 2025 Finalist
+
+💻 Solved 450+ DSA Problems across LeetCode, GeeksforGeeks, Coding Ninjas, and other platforms
+
+🎓 Maintaining a Strong Academic Record in B.Tech Computer Science Engineering
+
+🚀 Built Multiple Backend and Full-Stack Projects using Java, Django, and SQL
+
+📚 Consistently Learning and Applying Core Computer Science Concepts including DSA, DBMS, Operating Systems, and Computer Networks
 
 </div>
 
